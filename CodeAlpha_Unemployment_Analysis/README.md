@@ -3,8 +3,6 @@
 ## Project Overview
 This is a beginner-friendly data science project that looks at how the strict Covid-19 lockdowns in 2020 affected the job market in India.
 
-**Data Source:** [Kaggle - Unemployment in India Dataset](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
-
 ## What I Did in This Project
 * **Data Cleaning:** Fixed missing values and date formats so the math and graphs would work perfectly.
 * **Data Visualization:** Made different charts to clearly see the trends, like how the unemployment rate spiked exactly during the lockdown months.
