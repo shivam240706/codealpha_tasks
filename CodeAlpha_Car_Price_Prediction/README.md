@@ -59,6 +59,6 @@ This machine learning logic powers massive businesses every day:
 * **Seaborn & Matplotlib** (Visual EDA)
 
 ## 🚀 How to Run My Code
-1. Ensure your `car_data.csv` is located in the `dataset/` folder.
+1. Ensure your `car data.csv` is located in the `dataset/` folder.
 2. Open your terminal and install the required libraries: `pip install -r requirements.txt`
 3. Open the Jupyter Notebook and click **Restart & Run All**.
