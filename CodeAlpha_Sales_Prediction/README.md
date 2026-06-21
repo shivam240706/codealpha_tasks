@@ -3,6 +3,8 @@
 ## 📌 Project Objective
 The goal of this project is to build a Machine Learning regression model that forecasts corporate sales based on advertising budgets, ultimately delivering actionable reallocation strategies to a marketing team.
 
+**Data Source:** [Kaggle - Advertising Sales Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
+
 ---
 
 ## 🎯 Fulfilling the Project Requirements
@@ -31,3 +33,16 @@ By extracting the mathematical coefficients from the machine learning model, we 
 1. **Prioritize Radio:** Radio yields the highest incremental return per dollar spent. It is the most cost-efficient platform for scaling sales.
 2. **Maintain TV:** TV acts as the reliable anchor for overall sales volume. 
 3. **Divest from Newspaper:** Newspaper spending has a near-zero impact on the target variable. **Actionable Insight:** Reallocate 100% of the Newspaper budget into Radio to instantly maximize overall corporate revenue without increasing total marketing spend.
+
+---
+
+## 💻 Tools Used
+* **Python**
+* **Scikit-Learn** (Machine Learning, Regression Modeling)
+* **Pandas & NumPy** (Feature Selection & Data Cleaning)
+* **Seaborn & Matplotlib** (Data Visualization)
+
+## 🚀 How to Run My Code
+1. Ensure your `Advertising.csv` is located in the `dataset/` folder.
+2. Open your terminal and install the required libraries: `pip install -r requirements.txt`
+3. Open the Jupyter Notebook and click **Restart & Run All**.

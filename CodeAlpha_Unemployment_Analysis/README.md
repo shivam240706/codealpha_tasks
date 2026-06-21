@@ -1,15 +1,17 @@
-# Unemployment Analysis in India (Covid-19 Impact)
+# 📉 Task 2: Unemployment Analysis in India (Covid-19 Impact)
 
-## Project Overview
-This is a beginner-friendly data science project that looks at how the strict Covid-19 lockdowns in 2020 affected the job market in India.
+## 📌 Project Overview
+This exploratory data analysis (EDA) project examines how the strict Covid-19 lockdowns of 2020 impacted the Indian job market. 
 
 **Data Source:** [Kaggle - Unemployment in India Dataset](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
 
-## What I Did in This Project
-* **Data Cleaning:** Fixed missing values and date formats so the math and graphs would work perfectly.
-* **Data Visualization:** Made different charts to clearly see the trends, like how the unemployment rate spiked exactly during the lockdown months.
-* **Adding New Features:** Created a new "Severity" column to easily label which areas had "High" or "Low" unemployment compared to the rest of the country.
-* **Before vs. After:** Compared the 2020 pandemic data to normal, pre-covid years to prove exactly how much the lockdowns hurt the job market.
+---
+
+## 🛠️ What I Did in This Project
+* **Data Cleaning:** Handled missing values and standardized date formats to ensure accurate statistical analysis and visualization.
+* **Data Visualization:** Generated time-series charts to clearly illustrate trends, specifically highlighting the precise month the unemployment rate spiked.
+* **Feature Engineering:** Created a new "Severity" metric to easily categorize regions with "High" or "Low" unemployment compared to the national baseline.
+* **Before vs. After Analysis:** Quantified the exact economic shock by comparing pandemic-era data to pre-covid baselines.
 
 ## 📊 Visualization Highlights
 Here are the key patterns found during the analysis:
@@ -26,16 +28,18 @@ Here are the key patterns found during the analysis:
 **4. Correlation Heatmap**
 ![Correlation](images/correlation_heatmap.png)
 
-## Tools I Used
-* Python
-* Pandas & NumPy (for data cleaning and math)
-* Matplotlib & Seaborn (for drawing the graphs)
-* Jupyter Notebook
+---
 
-## Final Conclusion
-Even though the overall yearly average for 2020 only went up a little bit, the line graphs show the real story. There was a massive, sudden shock during the strict lockdown months, causing the unemployment rate in the worst-hit states to temporarily spike all the way to 75.85%.
+## 🏆 Final Conclusion
+While the overall yearly average for 2020 only showed a moderate increase, the time-series analysis reveals the true economic story. There was a massive, sudden shock during the strict lockdown months, causing the unemployment rate in the worst-hit states to temporarily spike to an unprecedented **75.85%**.
 
-## How to Run My Code
-1. Download or clone this folder to your computer.
-2. Open your terminal and install the required tools by typing: `pip install -r requirements.txt`
-3. Open `Unemployment_Analysis.ipynb` in Jupyter Notebook and run the cells from top to bottom.
+## 💻 Tools Used
+* **Python**
+* **Pandas & NumPy** (Data manipulation and statistical analysis)
+* **Matplotlib & Seaborn** (Data visualization)
+* **Jupyter Notebook**
+
+## 🚀 How to Run My Code
+1. Clone this repository to your local machine.
+2. Open your terminal and install the required libraries: `pip install -r requirements.txt`
+3. Open `Unemployment_Analysis.ipynb` in Jupyter Notebook and click **Restart & Run All**.
