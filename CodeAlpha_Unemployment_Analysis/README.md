@@ -1,4 +1,4 @@
-# 📉 Task 1: Unemployment Analysis in India (Covid-19 Impact)
+# 📉 Task 2: Unemployment Analysis in India (Covid-19 Impact)
 
 ## 📌 Project Overview
 This exploratory data analysis (EDA) project examines how the strict Covid-19 lockdowns of 2020 impacted the Indian job market. 
